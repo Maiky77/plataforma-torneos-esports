@@ -83,28 +83,9 @@ El sitio también reúne las **bases**, el **cronograma** y el **historial de ed
 
 ## Panel de administración
 
-El panel es una aplicación separada del sitio público. Tiene autenticación y permisos por rol para las tareas de organización y revisión.
+La web se gestiona desde un panel independiente, donde la organización administra el contenido, las inscripciones, las salas, los premios y los resultados. Los cambios se reflejan en las vistas públicas correspondientes.
 
-Desde allí se puede:
-
-- Revisar inscripciones, comprobar pagos y aprobar o rechazar solicitudes.
-- Administrar juegos, cupos, tarifas, premios y apertura de inscripciones.
-- Crear, anunciar, pausar, cerrar y finalizar salas.
-- Asignar slots y gestionar participantes Solo y Dúo.
-- Organizar grupos y fases, registrar marcadores y publicar podios.
-- Gestionar resultados y pagos de premios de las salas.
-- Editar contenido, bases, cronograma y enlaces de transmisiones.
-- Publicar el historial y consultar el registro de acciones administrativas.
-
-### Resumen de la organización
-
-![Panel con estadísticas e inscripciones de demostración](assets/09-panel-resumen.jpg)
-
-### Gestión de salas y resultados
-
-![Panel de una sala Dúo por Top con resultados ficticios](assets/10-panel-salas.jpg)
-
-**Lo que administra la organización se refleja en las vistas públicas correspondientes.** Los contactos, los comprobantes y los datos de acceso de las salas no se publican en los listados de jugadores o resultados.
+El panel es de acceso privado y no forma parte de esta presentación pública.
 
 ## También en celular
 
